@@ -1,0 +1,22 @@
+segment_sources:
+  I68A101A2:
+    type: origin_type
+    relation: translation
+    language: en
+  IFEBFB82B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  97106e271f2e4adab1ac2e8443cbb877:
+    I68A101A2: c2f7f62a59d64c209f6120a86ab55725
+    IFEBFB82B: 9a9d159cc0d74cd38773daebf635e237
+  e88ca3669e0745269d72986bfbcdfc4b:
+    I68A101A2: 9321fc7f0a764d4fb66bd975d61597c5
+    IFEBFB82B: b601e02d1fdb457ea2973dc4eb2d706e
+  d7b362393a0d4925809367b6462e6708:
+    I68A101A2: f0a655311dd64a8eae7bb2c7a151aa61
+    IFEBFB82B: 90fb02f7865142ed9e0f52cd2d745dc3
+  86cf531a052e4beebc0c501a50f1d97c:
+    I68A101A2: 41389342a0774241bebfb8de5a5edbc9
+    IFEBFB82B: b4fa037eb4054b658bdd6b5b088a6a7c
